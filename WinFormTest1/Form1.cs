@@ -36,6 +36,7 @@ namespace WinFormTest1
             textBox2.Text = t4;
             textBox3.Text = t1;
             textBox4.Text = t3;
+            //GGG
         }
     }
 }
